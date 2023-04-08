@@ -1,0 +1,25 @@
+{
+    "vuilongdoi": "Vui lòng đợi...",
+    "ngonngu":"Ngôn ngữ",
+    "chedotoi":"Chế độ tối",
+
+    "nav1":"Trang Chủ",
+    "nav2":"Cửa Hàng",
+    "nav3":"Yêu Thích",
+    "nav4":"Giỏ Hàng",
+    "nav5":"Tài Khoản",
+
+    "vuilongchonthongtin": "Vui lòng chọn thông tin",
+    "vuilongnhaphoten": "Vui lòng nhập Họ Tên",
+    "vuilongdienthongtin": "Vui lòng nhập thông tin",
+    "emailkhongdungdinhdang": "Email không đúng định dạng",
+    "matkhaungan": "Mật khẩu ít nhất {value} ký tự",
+    "@matkhaungan": {
+        "placeholders": {
+            "value": {
+                "type": "int"
+            }
+        }
+    },
+    "nhaplaimatkhaukhongdung": "Nhập lại mật khẩu không đúng"
+}

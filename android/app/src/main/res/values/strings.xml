@@ -1,0 +1,15 @@
+
+<resources>
+    <!-- // TODO: Tên hiển thị của Ứng dụng -->
+    <string name="app_name">App Example</string>
+    <!-- // TODO: zalo app id -->
+    <string name="zalo_flutter_app_id">4016447795999868606</string>
+    <!-- // TODO: zalo app id protocol. ví dụ: zalo-[APP_ID]-->
+    <string name="zalo_flutter_app_id_protocol">zalo-4016447795999868606</string>
+    <!-- // TODO: facebook app id -->
+    <string name="facebook_app_id">1687947584941691</string>
+    <!-- // TODO: facebook protocol scheme. ví dụ: fb[APP_ID] -->
+    <string name="fb_login_protocol_scheme">fb1687947584941691</string>
+    <!-- // TODO: facebook client token -->
+    <string name="facebook_client_token">baa4f7333fdf48fc2edd438a63793fc7</string>
+</resources>
